@@ -344,21 +344,3 @@ Boy names: Noah, Liam, Mason, Jacob, William, Ethan, James, Alexander, Michael, 
      1
    ]
 }
-
-// ===============================================================================
-// DATA
-// Below data will hold user's information.
-// ===============================================================================
-
-
-var userArray = [
-	{
-		userName: 'Aki',
-		userPicture: 'https://pixabay.com/static/uploads/photo/2014/08/28/08/31/model-429733_1280.jpg',
-		userScores: []
-	}
-];
-
-
-// Note how we export the array. This makes it accessible to other files using require.
-module.exports = userArray;
