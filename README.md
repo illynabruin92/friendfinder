@@ -1,4 +1,4 @@
-# FriendRestaurant
+# FriendFinder
 * Description: Basic app demonstrating Node and Express with jQuery. Overall purpose is to analyze user's personality inputs and match them up to friends who share similar personality traits. 
 
 ## To Install
